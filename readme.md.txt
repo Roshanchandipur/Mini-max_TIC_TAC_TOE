@@ -1,0 +1,1 @@
+When playing against humans, this artificial intelligence (AI) bot employs the backtracking algorithm MiniMax. Multiplayer mode is also available if two players desire to play against each other. Kotlin is used throughout the entire project.
